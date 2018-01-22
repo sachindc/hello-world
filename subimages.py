@@ -1,6 +1,5 @@
-#!/usr/bin/python3
-# subimages.py by Barron Stone
-# This is an exercise file from Python Code Clinic on lynda.com
+
+# This program is written to find images which are subset of other images in a folder.
 
 import os
 import numpy as np
